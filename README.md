@@ -1,0 +1,2 @@
+# golang
+trying out golang
